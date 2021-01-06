@@ -1,0 +1,46 @@
+header .container .navbar .navbar-brand img {
+  width: 50%;
+}
+
+header .container .navbar .collapse {
+  font-weight: 500;
+}
+
+header .container .navbar .collapse .kiri li a {
+  font-size: 17px;
+}
+
+.what .container .row .kiri .card {
+  border-radius: 10px;
+  background-position: center;
+  background: url(../img/liburan.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+}
+
+.what .container .row .kiri .card .text {
+  margin-top: 240px;
+}
+
+.what .container .row .kanan .row .col .card {
+  border-radius: 10px;
+  -webkit-box-shadow: 4px 4px 4px gray;
+          box-shadow: 4px 4px 4px gray;
+}
+
+.what .container .row .kanan .row .col .card .bd-highlight img {
+  width: 270px;
+  border-radius: 10px;
+}
+
+.what .container .row .kanan .row .col .card .bd-highlight a {
+  text-decoration: none;
+}
+
+.what .container .row .kanan .row .col .card .bd-highlight a p {
+  font-size: 23px;
+  color: black;
+  font-weight: 500;
+}
+/*# sourceMappingURL=style.css.map */
